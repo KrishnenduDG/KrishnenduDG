@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnendu Dasgupta</h1>
-<h3 align="center">Developer By Passion. I love learning about Web Development a lot and having fun making new Projects... Hoping to build something someday that would add value to somebody's life... That's my ultimate goal...</h3>
+<h3 align="center">Learning continuously with the hope of building something someday that would add value to somebody's life...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazycoder122&label=Profile%20views&color=0e75b6&style=flat" alt="crazycoder122" /> </p>
 
