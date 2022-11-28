@@ -10,7 +10,7 @@
 - 💬 Ask me about **React, Javascript,Linux**
 
 - 📫 How to reach me **krishnendu.kdg@gmail.com**
-https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/crazycoder122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krishnendudg" height="30" width="40" /></a><a href="https://hashnode.com/@KrishnenduDG" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611242375722/lfDjH4Nh1.png" alt="krishnendudg" height="30" width="40" /><a href="https://twitter.com/KrishnenduDG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnendudg" height="30" width="40" /></a><a href="https://www.linkedin.com/in/krishnendu-dasgupta-450391186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnendudg" height="30" width="40" /></a>
