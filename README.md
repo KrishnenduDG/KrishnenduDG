@@ -1,4 +1,4 @@
-![Profile Banner](assets/banner.gif)
+![Profile Banner](assets/github-banner.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazycoder122&label=Profile%20views&color=0e75b6&style=flat" alt="crazycoder122" /> </p>
 
