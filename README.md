@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishnendu Dasgupta</h1>
-<h3 align="center">Trying to resolve the Toughest Algorithms of my life through Music 🎶🎶</h3>
+![Profile Banner](assets/banner.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazycoder122&label=Profile%20views&color=0e75b6&style=flat" alt="crazycoder122" /> </p>
 
@@ -68,7 +67,7 @@
       width="40"
       height="40"
     />
-  </a> 
+  </a>
 
 <h3 align="left">Frontend Development:</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
