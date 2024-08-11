@@ -2,6 +2,8 @@
 
 ### 📦 What Powers My Code
 
+<hr style="margin-top:0;height:0.5px;" />
+
 #### 💻 Languages:
 
 <div style="display:flex; gap:4px">
@@ -54,12 +56,22 @@
 <img alt="Azure" src="https://img.shields.io/badge/-Azure-3C3C3C?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADo0lEQVR4nO1YT2hUZxD//GZXomm1qcXStB6KpaVYaaW9CEop2jYUb/LI7syLgVRTRJEWBC1S4sFbRW3pxULx0NBL/1GqXnoIeJAqgnuIuzvzEkICQQhNbGkVqk2efLvbzb7d7PuT7CZZeD+Y0/tm3m/mm2++mU+pGDFixAiN3rE21bIgeUGT9KlWRCLt7ARkR6VGn1WtBp3mFBA/0MSnVGvBXQPEp4F4DkgmlZ1pVy0DO9OuUX4CEteIRvnQ891yQa1apHKdmvjW/+QBJaveHkqUv1ujG4HkklqNSKZkBxBPlMkbSfMHlWuKaVX49p5aTQB0LEC+X0leIw95FhWizzPFneE7np1ZObhrNMoJQJ71RJ54Lokjb1au1CgDHgeJP1Irit6xNiAe9BIvOzDoWUuyoRz9+TVTqnfsqZUhT9nnNMrNhcnLv6pbtlYu1ySf1Vl7dtm5J21+HZDH6xAy8nlt9GW6rrM92ZeXj72dfxFQ/qlPnmeUNfx0pYq5hX2cdTXyL8vGX6P8HEDmuEfBGn7C5LqfDixXWQVb3g0gMVbdMmvkT0OQd5tfVq3htYCS941+WsijY2faQ0bfLekfbhp/TXLSP3UkowZc7dEx90NI8lCU6erz0xgc4OeB5G//n+f3LCX6MF8EzjWcP6B85xt9kis1SpYLprpEdgDloaLcKw0jn0jnd5V6+nqHbzaJ/MaCyn25JzXJ7ahOaOJfG8O+EEXJBFSPb3xtpHKdNR1qGEk77y+Zv0Y+FpCvD1S3syXITtIeeQ2I/4yYSlnVfyu5ePb2yGZAvhfwkzNhzYHtdAHJo0iphPkji+ZvUiMg+lOmv49iU1P+YMRUmlY92U2RySd6cm/V9vdV0bH5aGTDhYlMzkZLJT4f7Q8DrtYkNwIMj5qbeTEOlOz/GMGJR8mUsy20fY18KNCoLfvVUmBNrNPE18OfBbkczjCOdwTdnhrldzNGqqUinX/GvNaF3gnb6Qq0CSRfBRkyF5tqFHr41doxc5FltTBlEf/nH33+XjUYgM47ZioLlUp+hQNIvjbPIID8rRkJNcnH5l0zQbxb2c5Lqn9yvWoSNHGvb7syvwt/NKdbDQvTbqdyncXXasfSKJ8A8gWN/ENwt1uWL5pHEMc7TMkD5L0aub/0CndRk/xmSq/pNCPdAdSAslqXKOa2A8o+M0UBypemgzREPYJyzbyTLiQFh2gBQb5bPNhVgvxX+SyQXG1UzGPEiBEjhmppPAbg8P82i6DuZwAAAABJRU5ErkJggg==" />
 </div>
 
-<hr/>
+<br/>
 
 ### 📝 My Blogs
 
-<!-- - 🌱 I’m currently learning **Flutter, Google Cloud,Firebase, React**
+<hr style="margin-top:0;height:0.5px;" />
 
-- 💬 Ask me about **React, Javascript,Linux**
+- [<b>A Beginner’s Guide to HTTP & HTTPS</b>](https://dev.to/krishnendudg/a-beginners-guide-to-http-https-2hj2)
 
-- 📫 How to reach me **krishnendu.kdg@gmail.com** -->
+- [<b>API through the Eyes of a Beginner</b>](https://dev.to/krishnendudg/api-through-the-eyes-of-a-beginner-59g4)
+
+- [<b>Cloud Computing - What, Why and When?</b>](https://dev.to/krishnendudg/cloud-computing-what-why-and-when-c6l)
+
+<br/>
+
+### 📊 Some Statistical Analysis:
+
+<hr style="margin-top:0;height:0.5px;" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnenduDG&show_icons=true&theme=radical)
