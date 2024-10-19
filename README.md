@@ -75,3 +75,7 @@
 <hr style="margin-top:0;height:0.5px;" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnenduDG&show_icons=true&theme=radical)
+
+
+
+[![An image of @krishnendudg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnendudg)](https://holopin.io/@krishnendudg)
